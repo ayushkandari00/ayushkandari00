@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Kandari</h1>
-<h3 align="center">Full Stack Developer with expertise in front-end and back-end development. HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express.js, TypeScript, React Native, Django, PostgreSQL, MongoDB, Prisma ORM, Git, GitHub, AWS EC2</h3>
+<h3 align="center">Full Stack Developer with expertise in front-end and back-end development. HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express.js, TypeScript, React Native, Django, PostgreSQL, MongoDB, Prisma ORM, Git, GitHub, </h3>
 
 - 📫 How to reach me **ayushuses61@gmail.com**
 
